@@ -1,0 +1,11 @@
+.btn-dark {
+    background-color: #1d2124; /* dark 버튼 배경색 */
+    border-color: #1d2124;
+    color: #ffffff; /* 버튼 텍스트 색상 */
+  }
+  
+  .btn-dark:hover {
+    background-color: #343a40; /* hover 효과 색상 */
+    border-color: #343a40;
+  }
+
